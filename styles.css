@@ -76,12 +76,12 @@ img {
 }
 
 [data-theme="dark"] #siteLogo {
-    content: url("public/logo-ventkraft-dark.png");
+    content: url("logo-ventkraft-dark.png");
 }
 
 
 .logo-img {
-    height: 90px; /* bisa dinaikkan 70–80 jika ingin lebih besar */
+    height: 90px; /* bisa dinaikkan 70â€“80 jika ingin lebih besar */
     width: auto;
     object-fit: contain;
 }
